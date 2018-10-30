@@ -11,7 +11,7 @@ buildscript {
     }
 }
 
-group = 'springio'
+group = 'kapentaz'
 
 apply plugin: 'java'
 apply plugin: 'eclipse'
